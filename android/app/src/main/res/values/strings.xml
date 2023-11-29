@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">projectpbp</string>
+    <string name="title_activity_main">projectpbp</string>
+    <string name="package_name">ionic.projectpbp</string>
+    <string name="custom_url_scheme">ionic.projectpbp</string>
+</resources>
